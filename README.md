@@ -69,9 +69,6 @@
         android:dividerHeight="1dp"/>
 </LinearLayout>
 
-
-
-.....
 //java code 
 package com.example.privasentry;
 
